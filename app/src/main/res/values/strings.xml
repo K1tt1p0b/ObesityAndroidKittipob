@@ -1,0 +1,4 @@
+<resources>
+    <string name="root_url">http://10.13.5.163:3000/api/obesity</string>
+    <string name="app_name">Obesity Data</string>
+</resources>
